@@ -7,7 +7,7 @@ import { configureStore } from '@reduxjs/toolkit';
 // map of components
 // https://www.youtube.com/watch?v=_shA5Xwe8_4
 
-export const store = configureStore({
+const store = configureStore({
   reducer: {},
 });
 
